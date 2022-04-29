@@ -1,3 +1,3 @@
 <h1 align="center"><strong>✌️Hello, Design-Pattern </strong></h1>
 
-> Goals
+<p> Welcome to my repository for game design patterns </p>
