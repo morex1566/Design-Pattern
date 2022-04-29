@@ -1,2 +1,1 @@
-# Design-Pattern
-this is practice about design pattern
+<h1 align="center"> ✌️Hello, Welcome to Design-Pattern class <h1>
