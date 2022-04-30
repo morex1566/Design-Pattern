@@ -12,3 +12,4 @@
 <br>
 <br>
 <h2> Purpose </h2>
+<p> To avoid repeated switch statements due to complex branching </p>
