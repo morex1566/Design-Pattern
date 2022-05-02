@@ -1,6 +1,10 @@
 /*
-	This file is the starting point of the program.
+	This cpp is the starting point of the program...
+	Implementation of Component-Based design pattern...
 */
+
+// "test for github branch"
+
 
 #include <iostream>
 #include <Windows.h>
@@ -10,6 +14,7 @@
 
 int main()
 {
+
 	auto system = std::make_unique<System>();
 	HWND window = CreateWindow(NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
 
